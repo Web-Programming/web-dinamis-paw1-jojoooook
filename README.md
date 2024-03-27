@@ -9,7 +9,7 @@ Ini adalah Template Web **HTML dan CSS**. Gunakan sesuai petunjuk yang diberikan
 ## DEMO
 Klik link [Github Page](https://web-programming.github.io/web-dinamis-paw1-jojoooook/) berikut ini
 
-## Cara Closing Project
+## Cara Cloning Project
 Jalankan perintah `git clone urlgithub`
 
 ## Developer
